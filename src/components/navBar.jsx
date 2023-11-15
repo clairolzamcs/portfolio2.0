@@ -34,7 +34,7 @@ const Navbar = ({ darkMode, setDarkMode, scroll }) => {
         </li>
         <li>
           <a
-            href="https://drive.google.com/file/d/1peWsYTrbXoMGe0xcMaIxBrdoHCx8niSk/view?usp=sharing"
+            href="https://drive.google.com/file/d/1PG1w5Q29xCue7KKtMjygMxTC-TLw38aQ/view?usp=sharing"
             alt="Resume"
             target="_blank"
             rel="noopener noreferrer"
