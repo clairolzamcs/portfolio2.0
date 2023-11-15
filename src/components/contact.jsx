@@ -40,7 +40,8 @@ const Contact = ({ notify }) => {
     <section className="py-10" id="contact">
       <h1 className="text-5xl dark:text-gray-200 py-5">Let's Connect!</h1>
       <p className="pb-4 pl-4 text-gray-500">
-        Let me know how can I improve! or lets talk I am open for conversation.{" "}
+        Let's connect and create something amazing! Open to feedback, ideas, or
+        just a friendly chat. Reach out and let's make things better!{" "}
       </p>
       <form onSubmit={handleFormSubmit}>
         <label htmlFor="name" className="dark:text-gray-200">
