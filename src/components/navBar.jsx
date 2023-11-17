@@ -11,7 +11,7 @@ const NavItem = ({ href, text, scroll, onClick }) => (
 
 const Navbar = ({ darkMode, setDarkMode, scroll }) => {
   return (
-    <nav className="py-14 mb-12 flex justify-between dark:text-white">
+    <nav className="py-10 mb-12 flex justify-between dark:text-white">
       <h1 className="text-4xl hover:text-red-800 font-lucyTheCat px-6 py-2">
         <a href="#">Clay</a>
       </h1>

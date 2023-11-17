@@ -20,7 +20,7 @@ const socialIcons = [
 
 const About = () => {
   return (
-    <div className="text-center p-40 lg:p-40 md:p-20" id="about">
+    <div className="text-center p-10" id="about">
       <h2 className="text-5xl py-10 bg-gradient-to-r from-green-700 via-red-500 to-yellow-400 text-transparent bg-clip-text animate-gradient font-californiaSun md:text-6xl">
         <Typewriter
           options={{
@@ -38,7 +38,7 @@ const About = () => {
       <h3 className="text-3xl py-2 dark:text-white md:text-3xl">
         Full Stack Developer and Cloud Enthusiast
       </h3>
-      <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 md:text-xl max-w-10xl mx-auto">
+      <p className="text-md py-5 pb-10 leading-8 text-gray-800 dark:text-gray-200 md:text-xl max-w-10xl mx-auto">
         <span className="text-red-600 font-bold"> Clay </span> for short! :) I'm
         a full-stack developer with a passion for cloud computing and fintech,
         with a Bachelor's degree in Information Technology and a Postgraduate
